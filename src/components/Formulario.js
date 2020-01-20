@@ -52,7 +52,7 @@ function Formulario({datosConsulta}) {
                     <option value="MX">Mexico</option>
                     <option value="CO">Colombia</option>
                     <option value="CR">Costa Rica</option>
-                    <option value="CL">Colombia</option>
+                    <option value="CL">Colombiaaa</option>
                 </select>
             </div>
 
