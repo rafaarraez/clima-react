@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clima-react/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/clima-react/static/js/main.b9338b8e.chunk.js",
+    "main.js.map": "/clima-react/static/js/main.b9338b8e.chunk.js.map",
+    "runtime-main.js": "/clima-react/static/js/runtime-main.dad06257.js",
+    "runtime-main.js.map": "/clima-react/static/js/runtime-main.dad06257.js.map",
+    "static/js/2.ae3097e4.chunk.js": "/clima-react/static/js/2.ae3097e4.chunk.js",
+    "static/js/2.ae3097e4.chunk.js.map": "/clima-react/static/js/2.ae3097e4.chunk.js.map",
+    "index.html": "/clima-react/index.html",
+    "precache-manifest.485668395f72e53d2d97d526bb7c6650.js": "/clima-react/precache-manifest.485668395f72e53d2d97d526bb7c6650.js",
+    "service-worker.js": "/clima-react/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/clima-react/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.ae3097e4.chunk.js.LICENSE": "/clima-react/static/js/2.ae3097e4.chunk.js.LICENSE",
+    "static/media/logo.svg": "/clima-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dad06257.js",
+    "static/js/2.ae3097e4.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.b9338b8e.chunk.js"
+  ]
+}
